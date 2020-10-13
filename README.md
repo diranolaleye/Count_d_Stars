@@ -1,8 +1,10 @@
 # Count_d_Stars
 
+[![Download Cortado on the App Store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://apps.apple.com/gb/developer/oladiran-olaleye/id1533557291)
+
 ### A Dynamic Visual Acuity Test Meter
 
-To play, count the number of shooting stars (the BIG stars) traveling in the galaxy.
+To play, count the number of leading shooting stars (the BIG stars) traveling in the galaxy.
 
 There are seven different colored-stars - one for each color of the rainbow.
 
