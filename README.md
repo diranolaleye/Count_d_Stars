@@ -1,6 +1,6 @@
 # Count_d_Stars
 
-A Dynamic Visual Acuity Test Meter
+### A Dynamic Visual Acuity Test Meter
 
 You are required to count the number of shooting stars traveling in the galaxy. There are seven different colored-stars, one for each color of the rainbow.
 
