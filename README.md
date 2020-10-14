@@ -1,6 +1,6 @@
 # Count_d_Stars
 
-[![Download Cortado on the App Store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://apps.apple.com/gb/developer/oladiran-olaleye/id1533557291)
+[![Download Cortado on the App Store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://apps.apple.com/app/id1535620875)
 
 ### A Dynamic Visual Acuity Test Meter
 
